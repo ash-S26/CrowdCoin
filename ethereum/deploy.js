@@ -12,7 +12,7 @@ const compiledFactory = require("./build/CampaignFactory.json");
 // use infura service which provides us free access to node so we can connect to nod
 // and our transactions happends through that node.
 const provider = new HDWalletProvider(
-  'nephew excite fury approve stuff rival monster jeans rookie mechanic payment tag',  // 12 word mnemonic
+  '',  // 12 word mnemonic put here
   'https://sepolia.infura.io/v3/b27a9de58ee84f71990ac4577054e55d'                      // Infura node we want to connect to
 );
 // API key :- b27a9de58ee84f71990ac4577054e55d    (infura account)
