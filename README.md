@@ -18,7 +18,7 @@ Each campaign details are listed in following manner, a user can also donate to 
 On clicking "View Requests", we can see various expences requests that manager has created, and these requests can only be approved by contributors. If more than 50% contributor approves requests then automatically requested amount is transfered from smart contract to person for whom manager wants to buy stuff.
 ![image](https://user-images.githubusercontent.com/86155751/226813993-b742ba90-4b71-4af6-84a4-ef71503a94fa.png)
 
-
+Manager can created ticket with details as shown in below image.
 ![image](https://user-images.githubusercontent.com/86155751/226814092-3737e8bd-2c24-4c6d-9b79-d9611c834e0c.png)
 
 User can create new campaign using "Create Campaign" button. We need to enter the amount that we want as minimum contribution form contributor.
