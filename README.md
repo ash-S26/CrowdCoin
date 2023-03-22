@@ -6,7 +6,7 @@ Tech Stack Used :-
 - Solidity
 - web3.js
 - Blockchain
-- React
+- React and Next.js
 
 ### Home page
 All campaign are listed on home page user can click on "View Campaign" to get more info on campaign. 
