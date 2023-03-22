@@ -15,5 +15,5 @@ All campaign are listed on home page user can click on "View Campaign" to get mo
 Each campaign details are listed in following manner, a user can also donate to respective campaign by entering amount in wei to donate to campaign in provided input field and clicking on "Contribute!" button.
 ![image](https://user-images.githubusercontent.com/86155751/226812238-635247d2-1d6b-481f-a3ff-e9427da3b1e5.png)
 
-User can create new campaign using "Create Campaign" button 
+User can create new campaign using "Create Campaign" button. We need to enter the amount that we want as minimum contribution form contributor.
 ![image](https://user-images.githubusercontent.com/86155751/226812669-78bc7788-fb7d-4513-b1ed-8bf5c4f248fd.png)
